@@ -1,23 +1,21 @@
-# Portafolio de Estela Trujillio
+# Portafolio Power BI — Estela Trujillo
 
-Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y proyectos que he desarrollado en mi camino profesional, especialmente enfocados en análisis de datos y negocios.
+Business Analyst | Proyectos de análisis de datos y visualización con enfoque en contexto de negocio real.
 
-## Proyectos de Power BI
--Reto Grow Up Date Analitycs. Este proyecto consiste en un tablero interactivo que permite el monitoreo de KPIs críticos, diseñado para facilitar la toma de decisiones estratégicas.
-- [Tablero para monitorear métricas clave](https://github.com/estelatrdz/PBI_Projects/blob/4f7b2f4529637fc4f2e3b226f8c38d5db77f4de3/Reto%20Grow%20UP.pbix).
- 
--Análisis de Turismo Costa Rica. Este proyecto lo realice como práctica en Grow Up Date Analitycs, consiste en un tablero interactivo y un análisis de KPI's e insights.
-- [Tablero -Turismo Costa Rica](https://github.com/estelatrdz/PBI_Projects/tree/4f7b2f4529637fc4f2e3b226f8c38d5db77f4de3/Tourism_KPI's).
+## Proyectos
 
+### 🔹 [Análisis Comercial — Caso Dos Pinos](./KPI's_DosPinos)
+Dashboard interactivo en Power BI con 3 reportes que responden las preguntas de negocio: ¿Qué? ¿Quién? ¿Dónde? ¿Cuándo? ¿Cómo? y ¿Por qué? Análisis de KPIs de ventas, costos, utilidad y distribución geográfica para una cooperativa láctea líder en Centroamérica.
 
--Análisis Caso DOS PINOS. Participé en el evento "Inmersión en Análisis de Datos – Business Data Analyst Week", organizado por @Grow Up Data Analytics. A lo largo de estos tres desafíos, logré transformar datos complejos en herramientas de decisión y sobre todo entender: "Un analista aporta valor cuando responde preguntas de negocio, no cuando solo hace gráficos".
-- [Tablero - Caso DOS PINOS](https://github.com/estelatrdz/PBI_Projects/tree/4f7b2f4529637fc4f2e3b226f8c38d5db77f4de3/KPI's_DosPinos).
+### 🔹 [Análisis de Turismo — Costa Rica](./Tourism_KPI's)
+Dashboard de análisis de llegadas de extranjeros por vía de ingreso, región y país de origen. Comparativo vs año anterior con KPIs e insights para apoyo a decisiones estratégicas del sector turístico.
 
+### 🔹 [Reto Grow Up Data Analytics — Northwind Company](./Reto_GrowUp)
+Dashboard de análisis de ventas por categoría, región, país y transportista. Monitoreo de KPIs críticos de negocio para facilitar la toma de decisiones estratégicas en tiempo real.
 
-## **Sobre mí**
-Soy una profesional apasionada por el análisis de datos y la inteligencia de negocio. Combino experiencia operativa con habilidades técnicas en herramientas como SQL, Power BI y Python para generar valor y aportar soluciones basadas en datos.
+## Herramientas
+Power BI · DAX · Business Analysis · KPI Development · Visualización de datos · Análisis de datos
 
-
-¡Explora mis proyectos y no dudes en contactarme si tienes preguntas!
-📧 **Correo:** [estela.trdz@outlook.com]  
-🔗 **LinkedIn:** [estela-trujillordz](https://www.linkedin.com/in/estela-trujillordz)
+## Contacto
+- 📧 estela.trdz@outlook.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
