@@ -44,5 +44,5 @@ patrones por vía de ingreso, región y país de origen.
 - KPI Development
 
 ## Contacto
-- 📧 estela.trdz@outlook.com
+- 📧 estela.trujillo.rdz@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
