@@ -41,5 +41,5 @@ estratégicas en tiempo real.
 - Análisis de datos
 
 ## Contacto
-- 📧 estela.trdz@outlook.com
+- 📧 estela.trujillo.rdz@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
