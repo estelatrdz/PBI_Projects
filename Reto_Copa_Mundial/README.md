@@ -46,7 +46,6 @@ Todos los insights de este proyecto fueron verificados cruzando las medidas del 
 
 ## Herramientas
 Power BI · DAX · Modelado dimensional · Validación de datos · Visuales personalizados (HTML) · Storytelling de datos
-# Reto Fútbol 2026 — Dashboard Interactivo en Power BI
 
 ## Contacto
 - 📧 estela.trujillo.rdz@gmail.com
