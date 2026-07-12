@@ -51,6 +51,3 @@ Power BI · DAX · Modelado dimensional · Validación de datos · Visuales pers
 ## Contacto
 - 📧 estela.trujillo.rdz@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
-
-
-## Contacto
