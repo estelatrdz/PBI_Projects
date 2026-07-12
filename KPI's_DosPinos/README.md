@@ -59,5 +59,5 @@ Análisis profundo por región, país y tipo de producto para identificar qué m
 - KPI Development
 
 ## Contacto
-- 📧 estela.trdz@outlook.com
+- 📧 estela.trujillo.rdz@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
