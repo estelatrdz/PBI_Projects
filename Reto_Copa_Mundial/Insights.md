@@ -1,4 +1,5 @@
 Reto Fútbol 2026
+
 Nota metodológica
 Este análisis se construyó sin conocimiento técnico previo del fútbol. Cada conclusión proviene exclusivamente de los datos — cifras cruzadas contra la fuente original, no de familiaridad con el deporte. Esto obligó a un enfoque más objetivo: sin supuestos previos sobre qué jugador "debería" destacar o qué distribución "se esperaría", cada hallazgo tuvo que sostenerse solo con el número.
 
