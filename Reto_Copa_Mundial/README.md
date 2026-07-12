@@ -49,3 +49,8 @@ Power BI · DAX · Modelado dimensional · Validación de datos · Visuales pers
 # Reto Fútbol 2026 — Dashboard Interactivo en Power BI
 
 ## Contacto
+- 📧 estela.trujillo.rdz@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/estela-trujillordz)
+
+
+## Contacto
