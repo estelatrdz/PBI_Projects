@@ -36,13 +36,13 @@ Todos los insights de este proyecto fueron verificados cruzando las medidas del 
 ## Capturas
 
 **Portada**
-![Portada](ruta/Portada.png)
+![Portada](Portada.png)
 
 **Resumen**
-![Resumen](ruta/Resumen.png)
+![Resumen](Resumen.png)
 
 **Top Jugadores**
-![Top Jugadores](ruta/Top_Jugadores.png)
+![Top Jugadores](Top_Jugadores.png)
 
 ## Herramientas
 Power BI · DAX · Modelado dimensional · Validación de datos · Visuales personalizados (HTML) · Storytelling de datos
