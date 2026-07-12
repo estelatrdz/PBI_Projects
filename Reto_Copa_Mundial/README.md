@@ -33,8 +33,6 @@ Esquema estrella con 6 tablas:
 
 Todos los insights de este proyecto fueron verificados cruzando las medidas del dashboard directamente contra los datasets fuente (`Data_Mundial.xlsx` y `Estadisticas_Jugadores.xlsx`), no solo leídos de las tarjetas visuales. Esta revisión identificó un registro de prueba (jugador ficticio incluido intencionalmente por Grow Up) que fue excluido de cualquier análisis comparativo real.
 
-## Capturas
-
 **Portada**
 ![Portada](Portada.png)
 
